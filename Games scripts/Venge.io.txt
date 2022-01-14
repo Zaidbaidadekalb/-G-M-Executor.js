@@ -1,5 +1,5 @@
 // copy this to   G M Executor.js and click run \\
-// MUST RUN AT MENU FOR AIM TO WORK \\
+// MUST RUN AT MENU FOR AIMBOT TO WORK \\
 // DONT USE AIMBOT TO MUCH \\
 // https://venge.io/ \\ 
 
