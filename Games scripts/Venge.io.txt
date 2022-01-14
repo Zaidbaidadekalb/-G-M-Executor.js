@@ -12,4 +12,4 @@
 
 
 
-javascript:alert("Venge.io Hackes"); (function(){window.s0=document.createElement('script');window.s0.setAttribute('type','text/javascript');window.s0.setAttribute('src','https://bookmarkify.it/bookmarklets/48064/raw');document.getElementsByTagName('body')[0].appendChild(window.s0);})();
+javascript:alert("Venge Hacks"); (function(){window.s0=document.createElement('script');window.s0.setAttribute('type','text/javascript');window.s0.setAttribute('src','https://bookmarkify.it/bookmarklets/48091/raw');document.getElementsByTagName('body')[0].appendChild(window.s0);})();
