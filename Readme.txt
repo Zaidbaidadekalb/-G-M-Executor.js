@@ -1,3 +1,1 @@
-It very ez to set up 
-just copy the script and pas it in a new bookmark 
-
+https://zaidbaidaa.editorx.io/g-m-executorjs
