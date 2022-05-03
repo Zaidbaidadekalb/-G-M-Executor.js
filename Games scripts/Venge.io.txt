@@ -1,15 +1,24 @@
-// copy this to   G M Executor.js and click run \\
+
+https://greasyfork.org/en/users/761858-the-krunkador \\
+// copy this to G M Executor.js and click run \\
 // MUST RUN AT MENU FOR AIMBOT TO WORK \\
-// DONT USE AIMBOT TO MUCH \\
-// https://venge.io/ \\ 
+// DONT USE AIMBOT TO MUCH IT MIGHT KICK YOU \\
+// GAME https://venge.io/ \\ 
+// AIMBOT DONT WORK ANYMORE CUZ OF NEW UPDATE \\
+// false = not working \\
 
 
-// keys \\
-  // ` not working \\
- //  . inf ammo \\
- //  ; aimbot \\
-  //  [ esp  \\
+    // keys \\
+// false = not working \\
+//  . inf ammo \\
+//  false = aimbot \\ // DONT WORK\\
+// ("[") esp \\
+
+// settings \\
+var customFov = 125;
 
 
 
+// please dont touch this\\
 javascript:alert("Venge Hacks"); (function(){window.s0=document.createElement('script');window.s0.setAttribute('type','text/javascript');window.s0.setAttribute('src','https://bookmarkify.it/bookmarklets/48091/raw');document.getElementsByTagName('body')[0].appendChild(window.s0);})();
+
