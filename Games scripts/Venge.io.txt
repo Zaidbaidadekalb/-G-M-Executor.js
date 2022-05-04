@@ -6,6 +6,7 @@ https://greasyfork.org/en/users/761858-the-krunkador \\
 // GAME https://venge.io/ \\ 
 // AIMBOT DONT WORK ANYMORE CUZ OF NEW UPDATE \\
 // false = not working \\
+// I do now own this but i worked on it and made it compatible with GM.js \\
 
 
     // keys \\
